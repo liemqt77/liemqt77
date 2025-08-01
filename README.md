@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm liemqt77
 
-<!--
-**liemqt77/liemqt77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Technology Enthusiast
+I'm passionate about exploring technology and learning new things every day. My skill set may be ordinary, but I'm committed to improving and growing as a developer.
 
-Here are some ideas to get you started:
+## ✨ About Me
+- Always curious, always learning.
+- Not afraid to start small — every expert was once a beginner.
+- No social media, just GitHub and a desire to get better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "I am just normal people."
+
+---
+
+Thanks for stopping by my profile!
