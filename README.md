@@ -5,7 +5,7 @@ I'm passionate about exploring technology and learning new things every day. My 
 
 ## ✨ About Me
 - Always curious, always learning.
-- Not afraid to start small — every expert was once a beginner.
+- Not afraid to start small, every expert was once a beginner.
 - No social media, just GitHub and a desire to get better.
 
 > "I am just normal people."
