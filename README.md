@@ -13,3 +13,5 @@ I'm passionate about exploring technology and learning new things every day. My 
 ---
 
 Thanks for stopping by my profile!
+
+:)
